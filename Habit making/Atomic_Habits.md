@@ -16,7 +16,7 @@ Relationships compound | Anger/Outrage compounds |
 
 New habits take time to show expected results
 
-![The plateau of latent potential](https://i0.wp.com/arpitsrivastava.com/wp-content/uploads/2022/01/Valley-of-Disappointment.png?resize=629%2C418&ssl=1)
+<img src="https://github.com/kishore5242/notes/assets/15242152/b7254361-c8c8-4fc5-b9d6-19865b2f5470" width="500" alt="The plateau of latent potential">
 
 ## Habits are process oriented
 
